@@ -1,0 +1,44 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecords/
+
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Unity regenerated solution/projects (Unity 6 .slnx)
+*.csproj
+*.slnx
+*.sln
+*.tmp
+
+# IDE / OS
+.vs/
+.idea/
+.vscode/
+.vsconfig
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+*.opendb
+*.VC.db
+*.rsuser
+.DS_Store
+Thumbs.db
+
+# Crash / reports
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
