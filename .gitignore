@@ -42,3 +42,12 @@ Thumbs.db
 sysinfo.txt
 *.stackdump
 crashlytics-build.properties
+mono_crash*.blob
+*.blob
+
+# Local tool state
+/.freebuff/
+
+# Python (Tools/IconGenerator)
+__pycache__/
+*.pyc

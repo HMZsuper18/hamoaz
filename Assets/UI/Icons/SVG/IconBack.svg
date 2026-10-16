@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <!-- hamoaz icon pack: Back arrow. Slim chevron + shaft meeting at ONE tip
+       vertex (connected). Style contract: see Assets/UI/Icons/README.md -->
+  <g stroke="#FFFFFF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="108,60 38,128 108,196"/>
+    <line x1="222" y1="128" x2="38" y2="128"/>
+  </g>
+</svg>

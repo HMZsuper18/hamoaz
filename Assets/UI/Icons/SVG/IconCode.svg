@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="16 32 296 192" fill="none">
+  <!-- hamoaz icon pack: </> code mark. Chevrons + slash with generous gaps.
+       Design coords exceed 256 on x; the PNG pipeline crops+recenters.
+       Style contract: see Assets/UI/Icons/README.md -->
+  <g stroke="#FFFFFF" stroke-width="36" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="96,58 40,128 96,198"/>
+    <line x1="142" y1="200" x2="186" y2="56"/>
+    <polyline points="232,58 288,128 232,198"/>
+  </g>
+</svg>

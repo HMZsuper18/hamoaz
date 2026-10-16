@@ -1,0 +1,70 @@
+{
+  "surface": {
+    "navy": {
+      "value": "#102B3F",
+      "type": "color",
+      "description": "Main dark background"
+    },
+    "ocean-panel": {
+      "value": "#19465A",
+      "type": "color",
+      "description": "Menus and windows"
+    },
+    "raised": {
+      "value": "#286477",
+      "type": "color",
+      "description": "Cards and selected elements"
+    },
+    "light": {
+      "value": "#F1F4EF",
+      "type": "color",
+      "description": "Light text or alternative screens"
+    }
+  },
+  "brand": {
+    "lagoon": {
+      "value": "#16B8A6",
+      "type": "color",
+      "description": "Primary button and selection"
+    },
+    "gold": {
+      "value": "#F5C451",
+      "type": "color",
+      "description": "Rewards and important elements"
+    },
+    "coral": {
+      "value": "#F28B62",
+      "type": "color",
+      "description": "Warnings and alerts"
+    },
+    "lavender": {
+      "value": "#A99AF0",
+      "type": "color",
+      "description": "Secondary tabs and rare elements"
+    }
+  },
+  "text": {
+    "primary": {
+      "value": "#FFFFFF",
+      "type": "color",
+      "description": "Primary text on dark backgrounds"
+    },
+    "secondary": {
+      "value": "#AFC4CE",
+      "type": "color",
+      "description": "Description and secondary text"
+    }
+  },
+  "status": {
+    "success": {
+      "value": "#65D995",
+      "type": "color",
+      "description": "Save and connection success"
+    },
+    "danger": {
+      "value": "#FF6B72",
+      "type": "color",
+      "description": "Deletion, error, and danger"
+    }
+  }
+}
